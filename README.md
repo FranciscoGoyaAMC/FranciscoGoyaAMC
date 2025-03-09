@@ -13,7 +13,7 @@ Sou um profissional em transição de carreira para a área de tecnologia, atual
 ✔ **Desenvolvimento de Projetos** – Aplicação prática do conhecimento adquirido em projetos acadêmicos e pessoais.  
 
 ## 📌 Projetos em Destaque
-🔹 **[Asteroids Clone](https://github.com/FranciscoGoyaAMC/asteroids_project))** – Jogo desenvolvido em Python com Pygame, incluindo movimentação, colisões e sistema de pontuação.  
+🔹 **[Asteroids Clone](https://github.com/FranciscoGoyaAMC/asteroids_project)** – Jogo desenvolvido em Python com Pygame, incluindo movimentação, colisões e sistema de pontuação.  
 🔹 **[Projeto Cadastro de Lojas e Produtos](https://github.com/FranciscoGoyaAMC/EstudosJava)** – Projeto acadêmico em Java aplicando herança, polimorfismo e manipulação de arrays.  
 🔹 **[Bookbot](https://github.com/FranciscoGoyaAMC/bookbot)** – Analisador de texto simples escrito em Python.  
 🔹 **[Estudos Arrays Bidimensionais](https://github.com/FranciscoGoyaAMC/estudosArrayBidimensional)** – Coleção de exercícios práticos relacionados à manipulação de arrays bidimensionais em Java.  
