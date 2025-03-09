@@ -18,7 +18,7 @@ Sou um profissional em transição de carreira para a área de tecnologia, atual
 🔹 **[Bookbot](https://github.com/FranciscoGoyaAMC/bookbot)** – Analisador de texto simples escrito em Python.  
 🔹 **[Estudos Arrays Bidimensionais](https://github.com/FranciscoGoyaAMC/estudosArrayBidimensional)** – Coleção de exercícios práticos relacionados à manipulação de arrays bidimensionais em Java.  
 🔹 **[Estudo Manipulação de Arquivo](https://github.com/FranciscoGoyaAMC/estudoManipulacaoDeArquivo)** – Sistema de gerenciamento de estoque que processa um arquivo de produtos e gera um relatório.  
-🔹 **[Desafio Banco de Dados](https://github.com/FranciscoGoyaAMC/EstudosSQL)** – Projeto acadêmico aplicando modelagem, normalização, álgebra relacional e consultas SQL.  
+🔹 **[Desafio Banco de Dados](https://github.com/FranciscoGoyaAMC/EstudosSQL/tree/main/Unisinos/DesafioSQL)** – Projeto acadêmico aplicando modelagem, normalização, álgebra relacional e consultas SQL.  
 🔹 **[Estudos de Python](https://github.com/FranciscoGoyaAMC/EstudosPython)** – Mais de 100 exercícios abordando desde o básico até manipulação de listas, dicionários e tratamento de erros.  
 
 ## 📫 Conecte-se comigo
