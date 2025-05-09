@@ -30,6 +30,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FranciscoGoyaAMC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -38,7 +46,7 @@
 
 ###
 
-<p align="left">✔ <b>Python</b> – Fundamentos, manipulação de dados, algoritmos e estruturação de código.  <br>✔ <b>Java</b> – Programação orientada a objetos e desenvolvimento de sistemas.  <br>✔ <b>SQL</b> – Modelagem, consulta e gerenciamento de banco de dados.  <br>✔ <b>Estruturas de Dados e Algoritmos</b> – Construção de estruturas de dados.  <br>✔ <b>Desenvolvimento de Projetos</b> – Aplicação prática do conhecimento adquirido em projetos acadêmicos e pessoais.</p>
+<p align="left">✔ <b>Python</b> – POO, recursão, manipulação de dados e IA. <br>✔ <b>Java</b> – Programação orientada a objetos e desenvolvimento de sistemas.  <br>✔ <b>SQL</b> – Modelagem, consulta e gerenciamento de banco de dados.<br>✔ <b>JavaScript</b> – Fundamentos, funções e desenvolvimento web.<br>✔ <b>Estruturas de Dados e Algoritmos</b> – Construção de estruturas de dados.  <br>✔ <b>Desenvolvimento de Projetos</b> – Aplicação prática do conhecimento adquirido em projetos acadêmicos e pessoais.</p>
 
 ###
 
@@ -46,7 +54,7 @@
 
 ###
 
-<p align="left">🔹 <b><a href="https://github.com/FranciscoGoyaAMC/bot-furia" target"_blank">ChatBot FURIA</a></b> – ChatBot para Telegram usando Python e CrewAI para gerar respostas precisas e atualizadas. <br>🔹 <b><a href="https://github.com/FranciscoGoyaAMC/asteroids_project" target="_blank">Asteroids Clone</a></b> – Jogo desenvolvido em Python com Pygame, incluindo movimentação, colisões e sistema de pontuação. <br> 🔹 <b><a href="https://github.com/FranciscoGoyaAMC/static_site" target="_blank">Gerador de Site Estático</a></b> – Gerador de Sites Estáticos desenvolvido em Python, que converte arquivos Markdown em páginas HTML. <br>  🔹 <b><a href="https://github.com/FranciscoGoyaAMC/bookbot" target="_blank">Bookbot</a></b> – Analisador de texto simples escrito em Python. <br>🔹 <b><a href="https://github.com/FranciscoGoyaAMC/EstudosSQL/tree/main/Unisinos/DesafioSQL" target="_blank">Desafio Banco de Dados</a></b> – Projeto de modelagem, normalização, criação de um Banco de Dados Relacional e consultas em SQL. <br>🔹 <b><a href="https://github.com/FranciscoGoyaAMC/EstudosJava/tree/main/Unisinos/DesafioFinalCadeiraLabI" target="_blank">Projeto Cadastro de Lojas e Produtos</a></b> – Sustema em Java para cadastro de lojas e produtos. <br> 🔹 <b><a href="https://github.com/FranciscoGoyaAMC/estudoManipulacaoDeArquivo" target="_blank">Relatório de Estoque</a></b> – Sistema em Java de gerenciamento de estoque que processa um arquivo de produtos e gera um relatório. <br>  🔹 <b><a href="https://github.com/FranciscoGoyaAMC/estudosArrayBidimensional" target="_blank">Estudos Arrays Bidimensionais</a></b> – Coleção de exercícios práticos relacionados à manipulação de arrays bidimensionais em Java.</p>
+<p align="left">🔹 <b><a href="https://github.com/FranciscoGoyaAMC/bot-furia" target"_blank">ChatBot FURIA</a></b> – ChatBot para Telegram usando Python e CrewAI para gerar respostas precisas e atualizadas. <br>🔹 <b><a href="https://github.com/FranciscoGoyaAMC/asteroids_project" target="_blank">Asteroids Clone</a></b> – Jogo desenvolvido em Python com Pygame, incluindo movimentação, colisões e sistema de pontuação. <br>  🔹 <b><a href="https://github.com/FranciscoGoyaAMC/static_site" target="_blank">Gerador de Site Estático</a></b> – Gerador de Sites Estáticos desenvolvido em Python, que converte arquivos Markdown em páginas HTML. <br>  🔹 <b><a href="https://github.com/FranciscoGoyaAMC/bookbot" target="_blank">Bookbot</a></b> – Analisador de texto simples escrito em Python. <br>  🔹 <b><a href="https://github.com/FranciscoGoyaAMC/EstudosSQL/tree/main/Unisinos/DesafioSQL" target="_blank">Desafio Banco de Dados</a></b> – Projeto acadêmico aplicando modelagem, normalização, álgebra relacional e consultas SQL. <br>  🔹 <b><a href="https://github.com/FranciscoGoyaAMC/EstudosJava/tree/main/Unisinos/DesafioFinalCadeiraLabI" target="_blank">Projeto Cadastro de Lojas e Produtos</a></b> – Projeto em Java aplicando herança, polimorfismo e manipulação de arrays. <br>  🔹 <b><a href="https://github.com/FranciscoGoyaAMC/estudoManipulacaoDeArquivo" target="_blank">Relatório de Estoque</a></b> – Sistema em Java de gerenciamento de estoque que processa um arquivo de produtos e gera um relatório. <br>  🔹 <b><a href="https://github.com/FranciscoGoyaAMC/estudosArrayBidimensional" target="_blank">Estudos Arrays Bidimensionais</a></b> – Coleção de exercícios práticos relacionados à manipulação de arrays bidimensionais em Java.</p>
 
 ###
 
