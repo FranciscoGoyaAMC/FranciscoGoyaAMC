@@ -1,5 +1,5 @@
 <h1 align="left">👋 Olá, eu sou Francisco!</h1>
-<h2 align="left">🔍 Sobre mim</h2>
+<div align="left">
 <p align="left">
 Sou um profissional em transição de carreira para a área de tecnologia e atualmente curso o quarto semestre de <b>Análise e Desenvolvimento de Sistemas</b> na <b>Unisinos</b>. Tenho me dedicado ao desenvolvimento de habilidades técnicas em linguagens como <b>Python, Java, JavaScript, HTML, CSS e SQL</b>aplicando esses conhecimentos em projetos práticos disponíveis aqui no meu GitHub. 🚀
 </p>
@@ -18,7 +18,7 @@ Minha experiência anterior em produção musical me proporcionou competências 
 <p align="left">
 Tenho interesse especial em <b>desenvolvimento backend, ciência de dados e inteligência artificial</b>. Porém, estou aberto a atuar em diferentes frentes, como <b>análise de dados, frontend e desenvolvimento fullstack</b>. Busco oportunidades onde possa contribuir com <b>soluções criativas, aprender continuamente e evoluir como desenvolvedor</b>.
 </p>
----
+</div>
 
 <h2 align="left">💻 Linguagens e Tecnologias</h2>
 
