@@ -1,17 +1,23 @@
 <h1 align="left">👋 Olá, eu sou Francisco!</h1>
-
-<p align="left">
-Sou um profissional em transição de carreira para a área de tecnologia, atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b> na <b>Unisinos</b>. Atualmente cursando o terceiro semestre, venho ampliando meus conhecimentos em <b>Python, Java, JavaScript e SQL</b> por meio de projetos práticos, todos disponíveis aqui no meu GitHub. 🚀
-</p>
-
----
-
 <h2 align="left">🔍 Sobre mim</h2>
-
 <p align="left">
-🎶 Minha experiência anterior é na área de <b>produção musical</b>, o que me trouxe habilidades essenciais como <b>organização, comunicação, trabalho em equipe</b> e <b>resolução criativa de problemas</b>. Acredito que essas competências, aliadas ao meu <b>desenvolvimento técnico e analítico</b>, são fundamentais para atuar de forma eficiente no ambiente de tecnologia.
+Sou um profissional em transição de carreira para a área de tecnologia e atualmente curso o quarto semestre de <b>Análise e Desenvolvimento de Sistemas</b> na <b>Unisinos</b>. Tenho me dedicado ao desenvolvimento de habilidades técnicas em linguagens como <b>Python, Java, JavaScript, HTML, CSS e SQL</b>aplicando esses conhecimentos em projetos práticos disponíveis aqui no meu GitHub. 🚀
 </p>
-
+<p align="left">
+Tenho familiaridade com <b>Git, Linux</b> e metodologias ágeis como <b>Scrum e Kanban</b>. Recentemente fui aprovado em dois bootcamps do Santander: um focado em <b>Excel</b> (com Power Query, dashboards, automações com VBA e uso de PostgreSQL para ETL e CRUD) e outro em desenvolvimento <b>backend com Python</b>, atualmente em andamento.
+</p>
+<p align="left">
+Além disso, possuo conhecimento sólido em <b>SQL</b> — reforçado tanto na graduação quanto em cursos extracurriculares — e noções de <b>Power BI</b> para visualização e análise de dados.
+</p>
+<p align="left">
+Falo <b>inglês fluentemente</b> e <b>espanhol em nível intermediário</b>, o que me permite atuar em ambientes multiculturais e colaborar com equipes internacionais.
+</p>
+<p align="left">
+Minha experiência anterior em produção musical me proporcionou competências como <b>organização, comunicação eficaz, criatividade e trabalho em equipe</b> — habilidades que aplico diariamente na minha formação técnica e em projetos de tecnologia.
+</p>
+<p align="left">
+Tenho interesse especial em <b>desenvolvimento backend, ciência de dados e inteligência artificial</b>. Porém, estou aberto a atuar em diferentes frentes, como <b>análise de dados, frontend e desenvolvimento fullstack</b>. Busco oportunidades onde possa contribuir com <b>soluções criativas, aprender continuamente e evoluir como desenvolvedor</b>.
+</p>
 ---
 
 <h2 align="left">💻 Linguagens e Tecnologias</h2>
@@ -47,10 +53,12 @@ Sou um profissional em transição de carreira para a área de tecnologia, atual
 <p align="left">
 ✔ <b>Python</b> – POO, recursão, manipulação de dados e fundamentos de IA. <br>
 ✔ <b>Java</b> – Programação orientada a objetos e desenvolvimento de sistemas. <br>
-✔ <b>SQL</b> – Modelagem, consultas e gerenciamento de banco de dados. <br>
-✔ <b>JavaScript</b> – Fundamentos, funções e desenvolvimento web. <br>
+✔ <b>SQL</b> – Modelagem, consultas e gerenciamento de banco de dados, ETL e CRUD. <br>
+✔ <b>JavaScript</b> – Fundamentos, funções, jQuery e Bootstrap. <br>
+✔ <b>HTML</b> – Estruturação de páginas para desenvolvimento web. <br>
+✔ <b>CSS</b> – Estilização e layout de páginas HTML. <br>
 ✔ <b>Estruturas de Dados e Algoritmos</b> – Construção de estruturas clássicas e resolução de problemas. <br>
-✔ <b>Desenvolvimento de Projetos</b> – Aplicação prática de conhecimentos em soluções reais.
+✔ <b>Excel</b> – Funções, PROCV, tabelas dinâmicas, power query, dashboards, automações com VBA
 </p>
 
 ---
@@ -65,7 +73,10 @@ Sou um profissional em transição de carreira para a área de tecnologia, atual
 🔹 <b><a href="https://github.com/FranciscoGoyaAMC/EstudosSQL/tree/main/Unisinos/DesafioSQL" target="_blank">Desafio Banco de Dados</a></b> – Projeto acadêmico com modelagem, normalização e consultas SQL. <br>
 🔹 <b><a href="https://github.com/FranciscoGoyaAMC/EstudosJava/tree/main/Unisinos/DesafioFinalCadeiraLabI" target="_blank">Cadastro de Lojas e Produtos</a></b> – Projeto Java com herança, polimorfismo e arrays. <br>
 🔹 <b><a href="https://github.com/FranciscoGoyaAMC/estudoManipulacaoDeArquivo" target="_blank">Relatório de Estoque</a></b> – Sistema Java que processa arquivos e gera relatório. <br>
-🔹 <b><a href="https://github.com/FranciscoGoyaAMC/estudosArrayBidimensional" target="_blank">Arrays Bidimensionais</a></b> – Exercícios práticos em Java com arrays 2D.
+🔹 <b><a href="https://github.com/FranciscoGoyaAMC/site_dengue" target="_blank">Site Dengue</a></b> – Site dinâmico desenvolvido em HTML e JavaScript(Bootstrap), com estilização em CSS. <br>
+🔹 <b><a href="https://github.com/FranciscoGoyaAMC/DashboardVendas" target="_blank">Dashboard Vendas</a></b> – Dashboard desenvolvido com Excel para análise de vendas da GamePass do XBOX. <br>
+🔹 <b><a href="https://github.com/FranciscoGoyaAMC/Planilha_Investimento" target="_blank">Planilha Investimento</a></b> – Planilha Excel para estudo e análise de investimentos. <br>
+🔹 <b><a href="https://github.com/FranciscoGoyaAMC/OrganizadorImpostoDeRenda" target="_blank">Organizador de IR</a></b> – Planilha Excel para organizar seu Imposto de Renda.
 </p>
 
 ---
