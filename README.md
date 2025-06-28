@@ -20,6 +20,8 @@ Tenho interesse especial em <b>desenvolvimento backend, ciência de dados e inte
 </p>
 </div>
 
+---
+
 <h2 align="left">💻 Linguagens e Tecnologias</h2>
 
 <div align="left">
