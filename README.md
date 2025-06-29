@@ -1,7 +1,7 @@
 <h1 align="left">👋 Olá, eu sou Francisco!</h1>
 <div align="left">
 <p align="left">
-Sou um profissional em transição de carreira para a área de tecnologia e atualmente curso o quarto semestre de <b>Análise e Desenvolvimento de Sistemas</b> na <b>Unisinos</b>. Tenho me dedicado ao desenvolvimento de habilidades técnicas em linguagens como <b>Python, Java, JavaScript, HTML, CSS e SQL</b>aplicando esses conhecimentos em projetos práticos disponíveis aqui no meu GitHub. 🚀
+Sou um profissional em transição de carreira para a área de tecnologia e atualmente curso o quarto semestre de <b>Análise e Desenvolvimento de Sistemas</b> na <b>Unisinos</b>. Tenho me dedicado ao desenvolvimento de habilidades técnicas em linguagens como <b>Python, Java, JavaScript, HTML, CSS e SQL</b> aplicando esses conhecimentos em projetos práticos disponíveis aqui no meu GitHub. 🚀
 </p>
 <p align="left">
 Tenho familiaridade com <b>Git, Linux</b> e metodologias ágeis como <b>Scrum e Kanban</b>. Recentemente fui aprovado em dois bootcamps do Santander: um focado em <b>Excel</b> (com Power Query, dashboards, automações com VBA e uso de PostgreSQL para ETL e CRUD) e outro em desenvolvimento <b>backend com Python</b>, atualmente em andamento.
