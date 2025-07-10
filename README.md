@@ -68,14 +68,21 @@ Tenho interesse especial em <b>desenvolvimento backend, ciência de dados e inte
 <h2 align="left">📌 Projetos em Destaque</h2>
 
 <p align="left">
+<h5 align="left">Python</h5>
+🔹<b><a href="https://github.com/FranciscoGoyaAMC/BootCampSantander2025" target="_blank">Sistema Bancário</a></b> - Sistema bancário desenvolvido Bootcamp de Backend em Python do Santander. <br>
 🔹 <b><a href="https://github.com/FranciscoGoyaAMC/bot-furia" target="_blank">ChatBot FURIA</a></b> – ChatBot para Telegram usando Python e CrewAI para gerar respostas precisas e atualizadas. <br>
 🔹 <b><a href="https://github.com/FranciscoGoyaAMC/asteroids_project" target="_blank">Asteroids Clone</a></b> – Jogo desenvolvido em Python com Pygame, incluindo movimentação, colisões e sistema de pontuação. <br>
 🔹 <b><a href="https://github.com/FranciscoGoyaAMC/static_site" target="_blank">Gerador de Site Estático</a></b> – Conversor de arquivos Markdown para HTML feito em Python. <br>
 🔹 <b><a href="https://github.com/FranciscoGoyaAMC/bookbot" target="_blank">Bookbot</a></b> – Analisador de texto simples escrito em Python. <br>
+<h5 align="left">SQL</h5>
 🔹 <b><a href="https://github.com/FranciscoGoyaAMC/EstudosSQL/tree/main/Unisinos/DesafioSQL" target="_blank">Desafio Banco de Dados</a></b> – Projeto acadêmico com modelagem, normalização e consultas SQL. <br>
-🔹 <b><a href="https://github.com/FranciscoGoyaAMC/EstudosJava/tree/main/Unisinos/DesafioFinalCadeiraLabI" target="_blank">Cadastro de Lojas e Produtos</a></b> – Projeto Java com herança, polimorfismo e arrays. <br>
-🔹 <b><a href="https://github.com/FranciscoGoyaAMC/estudoManipulacaoDeArquivo" target="_blank">Relatório de Estoque</a></b> – Sistema Java que processa arquivos e gera relatório. <br>
+<h5 align="left">Java</h5>
+🔹 <b><a href="https://github.com/FranciscoGoyaAMC/EstudosJava/tree/main/Unisinos/DesafioFinalCadeiraLabI" target="_blank">Cadastro de Lojas e Produtos</a></b> –  Sistema de gerenciamento de lojas e produtos. <br>
+🔹 <b><a href="https://github.com/FranciscoGoyaAMC/estudoManipulacaoDeArquivo" target="_blank">Relatório de Estoque</a></b> – Sistema simples de gerenciamento de estoque para uma loja. <br>
+🔹 <b><a href="https://github.com/FranciscoGoyaAMC/DesafioLabII" target="_blank">Estrutura de Dados</a></b> - Estudo de Recursão e criação de Listas Estáticas, Pilhas e Filas em Java. <br>
+<h5 align="left">JavaScript/HTML</h5>
 🔹 <b><a href="https://github.com/FranciscoGoyaAMC/site_dengue" target="_blank">Site Dengue</a></b> – Site dinâmico desenvolvido em HTML e JavaScript(Bootstrap), com estilização em CSS. <br>
+<h5 align="left">Excel</h5>
 🔹 <b><a href="https://github.com/FranciscoGoyaAMC/DashboardVendas" target="_blank">Dashboard Vendas</a></b> – Dashboard desenvolvido com Excel para análise de vendas da GamePass do XBOX. <br>
 🔹 <b><a href="https://github.com/FranciscoGoyaAMC/Planilha_Investimento" target="_blank">Planilha Investimento</a></b> – Planilha Excel para estudo e análise de investimentos. <br>
 🔹 <b><a href="https://github.com/FranciscoGoyaAMC/OrganizadorImpostoDeRenda" target="_blank">Organizador de IR</a></b> – Planilha Excel para organizar seu Imposto de Renda.
