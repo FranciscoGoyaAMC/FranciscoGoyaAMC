@@ -26,32 +26,42 @@ Tenho interesse especial em <b>desenvolvimento backend, ciência de dados e inte
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
+  <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
+  <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
+  <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
+  <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
+  <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
+  <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40" alt="neo4j logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
+  <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
+  <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
 <div align="center">
@@ -79,6 +89,10 @@ Tenho interesse especial em <b>desenvolvimento backend, ciência de dados e inte
 
 <p align="left">
 <h5 align="left">Python</h5>
+🔹<b><a href="https://github.com/FranciscoGoyaAMC/dashboard-salarios-dados" target="_blank">Dashboard Interativo</a></b> - Dashboard de salários na área de dados desenvolvido com pandas e streamlit. <br>
+🔹<b><a href="https://github.com/FranciscoGoyaAMC/ai_agent" target="_blank">Agente de IA</a></b> - Agente de IA para listar, ler, escrever/sobrescrever arquivos e executar scripts de Python. <br>
+🔹<b><a href="https://github.com/FranciscoGoyaAMC/API_loja" target="_blank">API Loja</a></b> -  API que simula uma loja, permitindo criar, consultar, atualizar e deletar produtos. <br>
+🔹<b><a href="https://github.com/FranciscoGoyaAMC/API_BootCampSantander2025" target="_blank">API Loja</a></b> -  API RESTful para gerenciamento de atletas, categorias e centros de treinamento. <br>
 🔹<b><a href="https://github.com/FranciscoGoyaAMC/BootCampSantander2025" target="_blank">Sistema Bancário</a></b> - Sistema bancário desenvolvido Bootcamp de Backend em Python do Santander. <br>
 🔹 <b><a href="https://github.com/FranciscoGoyaAMC/bot-furia" target="_blank">ChatBot FURIA</a></b> – ChatBot para Telegram usando Python e CrewAI para gerar respostas precisas e atualizadas. <br>
 🔹 <b><a href="https://github.com/FranciscoGoyaAMC/asteroids_project" target="_blank">Asteroids Clone</a></b> – Jogo desenvolvido em Python com Pygame, incluindo movimentação, colisões e sistema de pontuação. <br>
