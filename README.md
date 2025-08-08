@@ -73,8 +73,8 @@ Tenho interesse especial em <b>desenvolvimento backend, ciência de dados e inte
 <h2 align="left">📚 O que estou estudando</h2>
 
 <p align="left">
-✔ <b>Python</b> – POO, recursão, manipulação de dados e fundamentos de IA. <br>
-✔ <b>Java</b> – Programação orientada a objetos e desenvolvimento de sistemas. <br>
+✔ <b>Python</b> – POO, recursão, estrutura de dados, manipulação de dados, análise de dados e fundamentos de IA. <br>
+✔ <b>Java</b> – Programação orientada a objetos, recursão, estrutura de dados e desenvolvimento de sistemas. <br>
 ✔ <b>SQL</b> – Modelagem, consultas e gerenciamento de banco de dados, ETL e CRUD. <br>
 ✔ <b>JavaScript</b> – Fundamentos, funções, jQuery e Bootstrap. <br>
 ✔ <b>HTML</b> – Estruturação de páginas para desenvolvimento web. <br>
@@ -92,7 +92,7 @@ Tenho interesse especial em <b>desenvolvimento backend, ciência de dados e inte
 🔹<b><a href="https://github.com/FranciscoGoyaAMC/dashboard-salarios-dados" target="_blank">Dashboard Interativo</a></b> - Dashboard de salários na área de dados desenvolvido com pandas e streamlit. <br>
 🔹<b><a href="https://github.com/FranciscoGoyaAMC/ai_agent" target="_blank">Agente de IA</a></b> - Agente de IA para listar, ler, escrever/sobrescrever arquivos e executar scripts de Python. <br>
 🔹<b><a href="https://github.com/FranciscoGoyaAMC/API_loja" target="_blank">API Loja</a></b> -  API que simula uma loja, permitindo criar, consultar, atualizar e deletar produtos. <br>
-🔹<b><a href="https://github.com/FranciscoGoyaAMC/API_BootCampSantander2025" target="_blank">API Loja</a></b> -  API RESTful para gerenciamento de atletas, categorias e centros de treinamento. <br>
+🔹<b><a href="https://github.com/FranciscoGoyaAMC/API_BootCampSantander2025" target="_blank">API Esportes</a></b> -  API RESTful para gerenciamento de atletas, categorias e centros de treinamento. <br>
 🔹<b><a href="https://github.com/FranciscoGoyaAMC/BootCampSantander2025" target="_blank">Sistema Bancário</a></b> - Sistema bancário desenvolvido Bootcamp de Backend em Python do Santander. <br>
 🔹 <b><a href="https://github.com/FranciscoGoyaAMC/bot-furia" target="_blank">ChatBot FURIA</a></b> – ChatBot para Telegram usando Python e CrewAI para gerar respostas precisas e atualizadas. <br>
 🔹 <b><a href="https://github.com/FranciscoGoyaAMC/asteroids_project" target="_blank">Asteroids Clone</a></b> – Jogo desenvolvido em Python com Pygame, incluindo movimentação, colisões e sistema de pontuação. <br>
