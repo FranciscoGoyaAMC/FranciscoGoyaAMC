@@ -39,31 +39,31 @@ Minha experiência anterior em produção musical me trouxe habilidades valiosas
 ## 📌 Projetos em Destaque
 
 ### Python
-- 🔹 [**Dashboard Interativo**](https://github.com/FranciscoGoyaAMC/dashboard-salarios-dados) – Análise de salários na área de dados com **pandas** e **streamlit**  
-- 🔹 [**Agente de IA**](https://github.com/FranciscoGoyaAMC/ai_agent) – Agente para listar, ler, sobrescrever arquivos e executar scripts Python  
-- 🔹 [**API Loja**](https://github.com/FranciscoGoyaAMC/API_loja) – CRUD de produtos  
-- 🔹 [**API Esportes**](https://github.com/FranciscoGoyaAMC/API_BootCampSantander2025) – Gestão de atletas e categorias  
-- 🔹 [**Sistema Bancário**](https://github.com/FranciscoGoyaAMC/BootCampSantander2025) – Versões evolutivas do sistema com novas funcionalidades  
-- 🔹 [**ChatBot FURIA**](https://github.com/FranciscoGoyaAMC/bot-furia) – ChatBot no Telegram usando Python e CrewAI  
-- 🔹 [**Asteroids Clone**](https://github.com/FranciscoGoyaAMC/asteroids_project) – Jogo em Python com Pygame  
-- 🔹 [**Gerador de Site Estático**](https://github.com/FranciscoGoyaAMC/static_site) – Conversor Markdown → HTML  
-- 🔹 [**Bookbot**](https://github.com/FranciscoGoyaAMC/bookbot) – Analisador de texto
+ 🔹 [**Dashboard Interativo**](https://github.com/FranciscoGoyaAMC/dashboard-salarios-dados) – Análise de salários na área de dados com **pandas** e **streamlit**  
+ 🔹 [**Agente de IA**](https://github.com/FranciscoGoyaAMC/ai_agent) – Agente para listar, ler, sobrescrever arquivos e executar scripts Python  
+ 🔹 [**API Loja**](https://github.com/FranciscoGoyaAMC/API_loja) – CRUD de produtos  
+ 🔹 [**API Esportes**](https://github.com/FranciscoGoyaAMC/API_BootCampSantander2025) – Gestão de atletas e categorias  
+ 🔹 [**Sistema Bancário**](https://github.com/FranciscoGoyaAMC/BootCampSantander2025) – Versões evolutivas do sistema com novas funcionalidades  
+ 🔹 [**ChatBot FURIA**](https://github.com/FranciscoGoyaAMC/bot-furia) – ChatBot no Telegram usando Python e CrewAI  
+ 🔹 [**Asteroids Clone**](https://github.com/FranciscoGoyaAMC/asteroids_project) – Jogo em Python com Pygame  
+ 🔹 [**Gerador de Site Estático**](https://github.com/FranciscoGoyaAMC/static_site) – Conversor Markdown → HTML  
+ 🔹 [**Bookbot**](https://github.com/FranciscoGoyaAMC/bookbot) – Analisador de texto
 
 ### SQL
-- 🔹 [**Desafio Banco de Dados**](https://github.com/FranciscoGoyaAMC/EstudosSQL/tree/main/Unisinos/DesafioSQL) – Modelagem, normalização e consultas SQL
+ 🔹 [**Desafio Banco de Dados**](https://github.com/FranciscoGoyaAMC/EstudosSQL/tree/main/Unisinos/DesafioSQL) – Modelagem, normalização e consultas SQL
 
 ### Java
-- 🔹 [**Cadastro de Lojas e Produtos**](https://github.com/FranciscoGoyaAMC/EstudosJava/tree/main/Unisinos/DesafioFinalCadeiraLabI) – Sistema de gestão  
-- 🔹 [**Relatório de Estoque**](https://github.com/FranciscoGoyaAMC/estudoManipulacaoDeArquivo) – Gestão simples de estoque  
-- 🔹 [**Estrutura de Dados**](https://github.com/FranciscoGoyaAMC/DesafioLabII) – Recursão, listas, pilhas e filas
+ 🔹 [**Cadastro de Lojas e Produtos**](https://github.com/FranciscoGoyaAMC/EstudosJava/tree/main/Unisinos/DesafioFinalCadeiraLabI) – Sistema de gestão  
+ 🔹 [**Relatório de Estoque**](https://github.com/FranciscoGoyaAMC/estudoManipulacaoDeArquivo) – Gestão simples de estoque  
+ 🔹 [**Estrutura de Dados**](https://github.com/FranciscoGoyaAMC/DesafioLabII) – Recursão, listas, pilhas e filas
 
 ### JavaScript / HTML
-- 🔹 [**Site Dengue**](https://github.com/FranciscoGoyaAMC/site_dengue) – Site dinâmico com Bootstrap e CSS
+ 🔹 [**Site Dengue**](https://github.com/FranciscoGoyaAMC/site_dengue) – Site dinâmico com Bootstrap e CSS
 
 ### Excel
-- 🔹 [**Dashboard Vendas**](https://github.com/FranciscoGoyaAMC/DashboardVendas) – Análise de vendas GamePass XBOX  
-- 🔹 [**Planilha Investimento**](https://github.com/FranciscoGoyaAMC/Planilha_Investimento) – Simulação de investimentos  
-- 🔹 [**Organizador de IR**](https://github.com/FranciscoGoyaAMC/OrganizadorImpostoDeRenda) – Organização do Imposto de Renda
+ 🔹 [**Dashboard Vendas**](https://github.com/FranciscoGoyaAMC/DashboardVendas) – Análise de vendas GamePass XBOX  
+ 🔹 [**Planilha Investimento**](https://github.com/FranciscoGoyaAMC/Planilha_Investimento) – Simulação de investimentos  
+ 🔹 [**Organizador de IR**](https://github.com/FranciscoGoyaAMC/OrganizadorImpostoDeRenda) – Organização do Imposto de Renda
 
 ---
 
