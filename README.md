@@ -33,6 +33,7 @@ Minha experiência anterior em produção musical me trouxe habilidades valiosas
 ✔ **JavaScript, HTML e CSS** – Desenvolvimento web responsivo  
 ✔ **Estruturas de Dados e Algoritmos** – Construção e otimização  
 ✔ **Excel** – Dashboards, Power Query, automações com VBA
+✔ **Power BI** – ETL, criação de visualizações personalizadas, Dashboards
 
 ---
 
@@ -65,6 +66,9 @@ Minha experiência anterior em produção musical me trouxe habilidades valiosas
  🔹 [**Dashboard Vendas**](https://github.com/FranciscoGoyaAMC/DashboardVendas) – Análise de vendas GamePass XBOX  
  🔹 [**Planilha Investimento**](https://github.com/FranciscoGoyaAMC/Planilha_Investimento) – Simulação de investimentos  
  🔹 [**Organizador de IR**](https://github.com/FranciscoGoyaAMC/OrganizadorImpostoDeRenda) – Organização do Imposto de Renda
+
+ ### Power BI
+ 🔹 [**Dashboard Finantials**](https://github.com/FranciscoGoyaAMC/DashboardFinantialsPowerBI) – Dashboard de análise financeira  
 
 ---
 
