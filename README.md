@@ -39,6 +39,7 @@ Minha experiência anterior em produção musical me trouxe habilidades valiosas
 ## 📌 Projetos em Destaque
 
 ### Python
+ 🔹 [**Service Desk Agent**](https://github.com/FranciscoGoyaAMC/service-desk-agent) –  Agente IA de Service Desk
  🔹 [**Dashboard Interativo**](https://github.com/FranciscoGoyaAMC/dashboard-salarios-dados) – Análise de salários na área de dados com **pandas** e **streamlit**  
  🔹 [**Agente de IA**](https://github.com/FranciscoGoyaAMC/ai_agent) – Agente para listar, ler, sobrescrever arquivos e executar scripts Python  
  🔹 [**API Loja**](https://github.com/FranciscoGoyaAMC/API_loja) – CRUD de produtos  
