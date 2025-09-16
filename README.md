@@ -32,7 +32,7 @@ Minha experiência anterior em produção musical me trouxe habilidades valiosas
 ✔ **SQL** – Modelagem, consultas, ETL e CRUD  
 ✔ **JavaScript, HTML e CSS** – Desenvolvimento web responsivo  
 ✔ **Estruturas de Dados e Algoritmos** – Construção e otimização  
-✔ **Excel** – Dashboards, Power Query, automações com VBA
+✔ **Excel** – Dashboards, Power Query, automações com VBA  
 ✔ **Power BI** – ETL, criação de visualizações personalizadas, Dashboards
 
 ---
