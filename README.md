@@ -2,6 +2,7 @@
 
 💻 **Desenvolvedor em formação** | **Transição de Carreira para Tecnologia**  
 🎓 4º semestre de **Análise e Desenvolvimento de Sistemas** – *Unisinos*  
+💼 Performance Comercial - **VIVO (Telefônica Brasil)**  
 🚀 Apaixonado por **desenvolvimento backend, ciência de dados e inteligência artificial**  
 
 ---
@@ -12,9 +13,9 @@ Sou um profissional em transição de carreira para a área de tecnologia, com f
 Atualmente, desenvolvo projetos práticos em **Python, Java, JavaScript, HTML, CSS e SQL**, todos disponíveis aqui no meu GitHub.
 
 **Principais competências:**
-- **Linguagens e frameworks:** Python, Java, JavaScript, HTML, CSS, FastAPI, Pandas, NumPy  
+- **Linguagens e frameworks:** Python, SQL, Java, FastAPI, Pandas, NumPy  
 - **Bancos de dados:** MySQL, SQLite, PostgreSQL, SQL Server, Oracle, MongoDB, Neo4j  
-- **Ferramentas e metodologias:** Git, Linux, Docker, Scrum, Kanban, Power BI, Excel (Power Query, VBA, ETL)  
+- **Ferramentas e metodologias:** Git, Linux, Docker, Scrum, Kanban, Power BI, Excel  
 - **Idiomas:** Inglês fluente | Espanhol intermediário
 
 Recentemente, fui aprovado em **dois bootcamps Santander**:
@@ -30,7 +31,6 @@ Minha experiência anterior em produção musical me trouxe habilidades valiosas
 ✔ **Python** – POO, estruturas de dados, análise de dados, fundamentos de IA  
 ✔ **Java** – POO, recursão, estruturas de dados, desenvolvimento de sistemas  
 ✔ **SQL** – Modelagem, consultas, ETL e CRUD  
-✔ **JavaScript, HTML e CSS** – Desenvolvimento web responsivo  
 ✔ **Estruturas de Dados e Algoritmos** – Construção e otimização  
 ✔ **Excel** – Dashboards, Power Query, automações com VBA  
 ✔ **Power BI** – ETL, criação de visualizações personalizadas, Dashboards
