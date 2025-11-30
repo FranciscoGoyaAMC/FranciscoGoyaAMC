@@ -58,7 +58,7 @@ Minha experiência anterior em **produção musical** me trouxe habilidades como
 🔹 [**Service Desk Agent**](https://github.com/FranciscoGoyaAMC/service-desk-agent)  
 Agente de IA voltado para automação de atendimento e suporte.
 
-🔹 [**FAQ Agent**](https://github.com/FranciscoGoyaAMC/faq-agent)  
+🔹 [**FAQ Agent**](https://github.com/FranciscoGoyaAMC/faq_agent)  
 Agente de IA para FAQ.
 
 🔹 [**Agente de IA**](https://github.com/FranciscoGoyaAMC/ai_agent)  
