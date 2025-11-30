@@ -1,6 +1,6 @@
 <h1 align="left">👋 Olá, eu sou Francisco!</h1>
 
-💻 **Desenvolvedor em formação voltado para Dados e IA**  
+💻 Desenvolvedor em formação | **Dados, Machine Learning e IA**  
 🎓 4º semestre de **Análise e Desenvolvimento de Sistemas** – *Unisinos*  
 💼 Performance Comercial - **VIVO (Telefônica Brasil)**  
 🚀 Focado em **ciência de dados, machine learning e soluções orientadas a dados**
@@ -9,11 +9,14 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou um profissional em **transição de carreira para a área de Dados**, com background sólido em **programação, análise de dados e desenvolvimento backend**.  
-Atualmente, direciono meus estudos e projetos para **Ciência de Dados, Machine Learning e aplicações de IA**.
+Sou um profissional em **transição de carreira para a área de Dados**, com background sólido em **programação, análise de dados e desenvolvimento backend**.
 
-Trabalho com **Python e SQL** para **análise exploratória, modelagem de dados, pipelines ETL e construção de APIs** que dão suporte a produtos e soluções data-driven.  
-Todos os meus projetos práticos estão disponíveis aqui no GitHub, com foco em **análise, visualização de dados, automação e IA aplicada**.
+Atualmente, direciono meus estudos e projetos para **Ciência de Dados, Machine Learning e aplicações de IA**, atuando principalmente com **Python e SQL** em:
+- análise exploratória de dados  
+- modelagem e pipelines ETL  
+- construção de APIs que suportam soluções data-driven  
+
+Todos os meus projetos práticos estão disponíveis aqui no GitHub, onde atualmente tendo manter o foco em **análise, visualização de dados, automação e IA aplicada**.
 
 **Principais competências:**
 - **Linguagens e frameworks:** Python, SQL, Java, FastAPI, Pandas, NumPy  
@@ -21,7 +24,7 @@ Todos os meus projetos práticos estão disponíveis aqui no GitHub, com foco em
 - **Ferramentas e metodologias:** Git, Linux, Docker, Scrum, Kanban, Power BI, Excel  
 - **Idiomas:** Inglês fluente | Espanhol intermediário
 
-Recentemente, fui aprovado em **três bootcamps Santander**:
+Recentemente, fui aprovado em **três bootcamps Santander**, com foco prático em **dados e backend**:  
 - 📊 **Excel Avançado** – Dashboards, ETL, automações com VBA e integração com PostgreSQL  
 - 🐍 **Backend com Python** – APIs REST, FastAPI, MongoDB e testes automatizados  
 - 🐍 **Ciência de Dados com Python** – Foco em Python, análise de dados, machine learning, bancos de dados e computação em nuvem com AWS.
@@ -54,6 +57,9 @@ Minha experiência anterior em **produção musical** me trouxe habilidades como
 
 🔹 [**Service Desk Agent**](https://github.com/FranciscoGoyaAMC/service-desk-agent)  
 Agente de IA voltado para automação de atendimento e suporte.
+
+🔹 [**FAQ Agent**](https://github.com/FranciscoGoyaAMC/faq-agent)  
+Agente de IA para FAQ.
 
 🔹 [**Agente de IA**](https://github.com/FranciscoGoyaAMC/ai_agent)  
 Agente capaz de listar, ler, sobrescrever arquivos e executar scripts Python.
