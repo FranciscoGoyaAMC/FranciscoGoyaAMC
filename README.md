@@ -1,18 +1,19 @@
 <h1 align="left">👋 Olá, eu sou Francisco!</h1>
 
-💻 **Desenvolvedor em formação**
+💻 **Desenvolvedor em formação voltado para Dados e IA**  
 🎓 4º semestre de **Análise e Desenvolvimento de Sistemas** – *Unisinos*  
 💼 Performance Comercial - **VIVO (Telefônica Brasil)**  
-🚀 Apaixonado por **desenvolvimento backend, ciência de dados e inteligência artificial**  
+🚀 Focado em **ciência de dados, machine learning e soluções orientadas a dados**
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
+Sou um profissional em **transição de carreira para a área de Dados**, com background sólido em **programação, análise de dados e desenvolvimento backend**.  
+Atualmente, direciono meus estudos e projetos para **Ciência de Dados, Machine Learning e aplicações de IA**.
 
-Sou um profissional em **transição de carreira para a área de Dados**, com background sólido em **programação, análise de dados e desenvolvimento backend**, atualmente direcionando meus estudos e projetos para **Ciência de Dados e Machine Learning**.
-Trabalho com **Python e SQL** para análise, exploração, modelagem de dados e construção de APIs de apoio a produtos data-driven.  
-Todos os meus projetos práticos estão disponíveis aqui no GitHub, com foco em **análise exploratória, ETL, visualização de dados e automação**.
+Trabalho com **Python e SQL** para **análise exploratória, modelagem de dados, pipelines ETL e construção de APIs** que dão suporte a produtos e soluções data-driven.  
+Todos os meus projetos práticos estão disponíveis aqui no GitHub, com foco em **análise, visualização de dados, automação e IA aplicada**.
 
 **Principais competências:**
 - **Linguagens e frameworks:** Python, SQL, Java, FastAPI, Pandas, NumPy  
@@ -20,37 +21,54 @@ Todos os meus projetos práticos estão disponíveis aqui no GitHub, com foco em
 - **Ferramentas e metodologias:** Git, Linux, Docker, Scrum, Kanban, Power BI, Excel  
 - **Idiomas:** Inglês fluente | Espanhol intermediário
 
-Recentemente, fui aprovado em **dois bootcamps Santander**:
-- 📊 **Excel Avançado** – Dashboards, automações VBA, ETL e CRUD com PostgreSQL  
-- 🐍 **Backend com Python** – APIs REST, FastAPI, MongoDB, testes automatizados
+Recentemente, fui aprovado em **três bootcamps Santander**:
+- 📊 **Excel Avançado** – Dashboards, ETL, automações com VBA e integração com PostgreSQL  
+- 🐍 **Backend com Python** – APIs REST, FastAPI, MongoDB e testes automatizados  
+- 🐍 **Ciência de Dados com Python** – Foco em Python, análise de dados, machine learning, bancos de dados e computação em nuvem com AWS.
 
-Minha experiência anterior em produção musical me trouxe habilidades valiosas como **organização, comunicação eficaz, criatividade e trabalho em equipe** — que aplico no desenvolvimento de soluções tecnológicas.
+Minha experiência anterior em **produção musical** me trouxe habilidades como **organização, comunicação eficaz, criatividade e trabalho em equipe**, que hoje aplico na construção de soluções tecnológicas e analíticas.
+
+---
 
 ## 🎯 Áreas de interesse
-- Ciência de Dados
-- Machine Learning
-- Engenharia de Dados
-- Análise de Dados
+- Ciência de Dados  
+- Machine Learning  
+- Engenharia de Dados (nível inicial)  
+- Análise de Dados  
 
 ---
 
 ## 📚 O que estou estudando
 
-✔ **Python** – RAG, criação de LLM's, Criação de API's, FastAPI, Pandas, NumPy, Matplotlib, Seaborn, Langchain, Langgraph, Streamlit  
-✔ **SQL** – Modelagem, consultas, ETL e CRUD  
-✔ **Java** - (POO, estruturas de dados – base lógica)  
-✔ **Excel** – Criação de Dashboards, ETL, Power Query, automações com VBA  
-✔ **Power BI** – ETL, criação de visualizações personalizadas, Criação de Dashboards
+✔ **Python** – Análise de Dados, Pandas, NumPy, Matplotlib, Seaborn, Streamlit  
+✔ **IA & LLMs** – RAG, LangChain, LangGraph, criação de agentes e integração com APIs  
+✔ **Machine Learning** – Fundamentos, pipelines e métricas (em progresso)  
+✔ **SQL** – Modelagem, consultas avançadas, ETL e CRUD  
+✔ **Java** – POO e estruturas de dados (base lógica)  
+✔ **Excel** – Dashboards, Power Query e automações com VBA  
+✔ **Power BI** – ETL, modelagem e criação de dashboards analíticos  
 
 ---
 
 ## 📌 Projetos em Destaque
- 🔹 [**Service Desk Agent**](https://github.com/FranciscoGoyaAMC/service-desk-agent) –  Agente de IA voltado para automação de atendimento.  
- 🔹 [**Agente de IA**](https://github.com/FranciscoGoyaAMC/ai_agent) – Agente para listar, ler, sobrescrever arquivos e executar scripts Python  
- 🔹 [**Dashboard Interativo**](https://github.com/FranciscoGoyaAMC/dashboard-salarios-dados) – Análise de salários na área de dados utilizando **Pandas + Streamlit**, com filtros e visualizações interativas  
- 🔹 [**ChatBot FURIA**](https://github.com/FranciscoGoyaAMC/bot-furia) – ChatBot no Telegram usando Python e CrewAI  
- 🔹 [**API Loja**](https://github.com/FranciscoGoyaAMC/API_loja) – API para CRUD de produtos  
- 🔹 [**API Esportes**](https://github.com/FranciscoGoyaAMC/API_BootCampSantander2025) – API de gestão de atletas e categorias  
+
+🔹 [**Service Desk Agent**](https://github.com/FranciscoGoyaAMC/service-desk-agent)  
+Agente de IA voltado para automação de atendimento e suporte.
+
+🔹 [**Agente de IA**](https://github.com/FranciscoGoyaAMC/ai_agent)  
+Agente capaz de listar, ler, sobrescrever arquivos e executar scripts Python.
+
+🔹 [**Dashboard Interativo**](https://github.com/FranciscoGoyaAMC/dashboard-salarios-dados)  
+Análise de salários na área de dados utilizando **Pandas + Streamlit**, com filtros e visualizações interativas.
+
+🔹 [**ChatBot FURIA**](https://github.com/FranciscoGoyaAMC/bot-furia)  
+Chatbot para Telegram utilizando Python e CrewAI.
+
+🔹 [**API Loja**](https://github.com/FranciscoGoyaAMC/API_loja)  
+API REST para CRUD de produtos.
+
+🔹 [**API Esportes**](https://github.com/FranciscoGoyaAMC/API_BootCampSantander2025)  
+API para gestão de atletas e categorias.
 
 ---
 
@@ -63,14 +81,8 @@ Minha experiência anterior em produção musical me trouxe habilidades valiosas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
 </div>
@@ -90,5 +102,3 @@ Minha experiência anterior em produção musical me trouxe habilidades valiosas
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40"/>
   </a>
 </div>
-
----
