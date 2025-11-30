@@ -1,6 +1,6 @@
 <h1 align="left">👋 Olá, eu sou Francisco!</h1>
 
-💻 **Desenvolvedor em formação** | **Transição de Carreira para Tecnologia**  
+💻 **Desenvolvedor em formação**
 🎓 4º semestre de **Análise e Desenvolvimento de Sistemas** – *Unisinos*  
 💼 Performance Comercial - **VIVO (Telefônica Brasil)**  
 🚀 Apaixonado por **desenvolvimento backend, ciência de dados e inteligência artificial**  
@@ -9,8 +9,10 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou um profissional em transição de carreira para a área de tecnologia, com foco em desenvolvimento de soluções e análise de dados.  
-Atualmente, desenvolvo projetos práticos em **Python, Java, JavaScript, HTML, CSS e SQL**, todos disponíveis aqui no meu GitHub.
+
+Sou um profissional em **transição de carreira para a área de Dados**, com background sólido em **programação, análise de dados e desenvolvimento backend**, atualmente direcionando meus estudos e projetos para **Ciência de Dados e Machine Learning**.
+Trabalho com **Python e SQL** para análise, exploração, modelagem de dados e construção de APIs de apoio a produtos data-driven.  
+Todos os meus projetos práticos estão disponíveis aqui no GitHub, com foco em **análise exploratória, ETL, visualização de dados e automação**.
 
 **Principais competências:**
 - **Linguagens e frameworks:** Python, SQL, Java, FastAPI, Pandas, NumPy  
@@ -24,51 +26,31 @@ Recentemente, fui aprovado em **dois bootcamps Santander**:
 
 Minha experiência anterior em produção musical me trouxe habilidades valiosas como **organização, comunicação eficaz, criatividade e trabalho em equipe** — que aplico no desenvolvimento de soluções tecnológicas.
 
+## 🎯 Áreas de interesse
+- Ciência de Dados
+- Machine Learning
+- Engenharia de Dados
+- Análise de Dados
+
 ---
 
 ## 📚 O que estou estudando
 
-✔ **Python** – POO, estruturas de dados, análise de dados, fundamentos de IA  
-✔ **Java** – POO, recursão, estruturas de dados, desenvolvimento de sistemas  
+✔ **Python** – RAG, criação de LLM's, Criação de API's, FastAPI, Pandas, NumPy, Matplotlib, Seaborn, Langchain, Langgraph, Streamlit  
 ✔ **SQL** – Modelagem, consultas, ETL e CRUD  
-✔ **Estruturas de Dados e Algoritmos** – Construção e otimização  
-✔ **Excel** – Dashboards, Power Query, automações com VBA  
-✔ **Power BI** – ETL, criação de visualizações personalizadas, Dashboards
+✔ **Java** - (POO, estruturas de dados – base lógica)  
+✔ **Excel** – Criação de Dashboards, ETL, Power Query, automações com VBA  
+✔ **Power BI** – ETL, criação de visualizações personalizadas, Criação de Dashboards
 
 ---
 
 ## 📌 Projetos em Destaque
-
-### Python
- 🔹 [**Service Desk Agent**](https://github.com/FranciscoGoyaAMC/service-desk-agent) –  Agente IA de Service Desk  
- 🔹 [**Dashboard Interativo**](https://github.com/FranciscoGoyaAMC/dashboard-salarios-dados) – Análise de salários na área de dados com **pandas** e **streamlit**  
+ 🔹 [**Service Desk Agent**](https://github.com/FranciscoGoyaAMC/service-desk-agent) –  Agente de IA voltado para automação de atendimento.  
  🔹 [**Agente de IA**](https://github.com/FranciscoGoyaAMC/ai_agent) – Agente para listar, ler, sobrescrever arquivos e executar scripts Python  
- 🔹 [**API Loja**](https://github.com/FranciscoGoyaAMC/API_loja) – CRUD de produtos  
- 🔹 [**API Esportes**](https://github.com/FranciscoGoyaAMC/API_BootCampSantander2025) – Gestão de atletas e categorias  
- 🔹 [**Sistema Bancário**](https://github.com/FranciscoGoyaAMC/BootCampSantander2025) – Versões evolutivas do sistema com novas funcionalidades  
+ 🔹 [**Dashboard Interativo**](https://github.com/FranciscoGoyaAMC/dashboard-salarios-dados) – Análise de salários na área de dados utilizando **Pandas + Streamlit**, com filtros e visualizações interativas  
  🔹 [**ChatBot FURIA**](https://github.com/FranciscoGoyaAMC/bot-furia) – ChatBot no Telegram usando Python e CrewAI  
- 🔹 [**Asteroids Clone**](https://github.com/FranciscoGoyaAMC/asteroids_project) – Jogo em Python com Pygame  
- 🔹 [**Gerador de Site Estático**](https://github.com/FranciscoGoyaAMC/static_site) – Conversor Markdown → HTML  
- 🔹 [**Bookbot**](https://github.com/FranciscoGoyaAMC/bookbot) – Analisador de texto
-
-### SQL
- 🔹 [**Desafio Banco de Dados**](https://github.com/FranciscoGoyaAMC/EstudosSQL/tree/main/Unisinos/DesafioSQL) – Modelagem, normalização e consultas SQL
-
-### Java
- 🔹 [**Cadastro de Lojas e Produtos**](https://github.com/FranciscoGoyaAMC/EstudosJava/tree/main/Unisinos/DesafioFinalCadeiraLabI) – Sistema de gestão  
- 🔹 [**Relatório de Estoque**](https://github.com/FranciscoGoyaAMC/estudoManipulacaoDeArquivo) – Gestão simples de estoque  
- 🔹 [**Estrutura de Dados**](https://github.com/FranciscoGoyaAMC/DesafioLabII) – Recursão, listas, pilhas e filas
-
-### JavaScript / HTML
- 🔹 [**Site Dengue**](https://github.com/FranciscoGoyaAMC/site_dengue) – Site dinâmico com Bootstrap e CSS
-
-### Excel
- 🔹 [**Dashboard Vendas**](https://github.com/FranciscoGoyaAMC/DashboardVendas) – Análise de vendas GamePass XBOX  
- 🔹 [**Planilha Investimento**](https://github.com/FranciscoGoyaAMC/Planilha_Investimento) – Simulação de investimentos  
- 🔹 [**Organizador de IR**](https://github.com/FranciscoGoyaAMC/OrganizadorImpostoDeRenda) – Organização do Imposto de Renda
-
- ### Power BI
- 🔹 [**Dashboard Finantials**](https://github.com/FranciscoGoyaAMC/DashboardFinantialsPowerBI) – Dashboard de análise financeira  
+ 🔹 [**API Loja**](https://github.com/FranciscoGoyaAMC/API_loja) – API para CRUD de produtos  
+ 🔹 [**API Esportes**](https://github.com/FranciscoGoyaAMC/API_BootCampSantander2025) – API de gestão de atletas e categorias  
 
 ---
 
@@ -91,9 +73,6 @@ Minha experiência anterior em produção musical me trouxe habilidades valiosas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
 </div>
 
 ---
