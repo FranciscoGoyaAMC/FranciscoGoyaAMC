@@ -40,9 +40,9 @@ Minha experiência anterior em **produção musical** me trouxe habilidades como
 
 ## 📚 O que estou estudando
 
-✔ **Python** – Análise de Dados, Pandas, NumPy, Matplotlib, Seaborn, Streamlit  
+✔ **Python** – Análise e visualização de dados com Pandas, NumPy, Matplotlib, Seaborn e Streamlit  
 ✔ **IA & LLMs** – RAG, LangChain, LangGraph, criação de agentes e integração com APIs  
-✔ **Machine Learning** – Fundamentos, pipelines e métricas (em progresso)  
+✔ **Machine Learning** – Fundamentos, pipelines, validação de modelos e métricas  
 ✔ **SQL** – Modelagem, consultas avançadas, ETL e CRUD  
 ✔ **Java** – POO e estruturas de dados (base lógica)  
 ✔ **Excel** – Dashboards, Power Query e automações com VBA  
