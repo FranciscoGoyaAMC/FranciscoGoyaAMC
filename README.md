@@ -64,6 +64,9 @@ Agente de IA para FAQ.
 🔹 [**Agente de IA**](https://github.com/FranciscoGoyaAMC/ai_agent)  
 Agente capaz de listar, ler, sobrescrever arquivos e executar scripts Python.
 
+🔹 [**Agente de RAG com busca na Web**](https://github.com/FranciscoGoyaAMC/rag_web)  
+Agente de IA que usa RAG e busca elementos na Web para responder perguntas sobre LLM.
+
 🔹 [**Dashboard Interativo**](https://github.com/FranciscoGoyaAMC/dashboard-salarios-dados)  
 Análise de salários na área de dados utilizando **Pandas + Streamlit**, com filtros e visualizações interativas.
 
