@@ -1,7 +1,7 @@
 <h1 align="left">👋 Olá, eu sou Francisco!</h1>
 
 💻 Desenvolvedor em formação | **Dados, Machine Learning e IA**  
-🎓 4º semestre de **Análise e Desenvolvimento de Sistemas** – *Unisinos*  
+🎓 5º semestre de **Análise e Desenvolvimento de Sistemas** – *Unisinos*  
 💼 Performance Comercial - **VIVO (Telefônica Brasil)**  
 🚀 Focado em **ciência de dados, machine learning e soluções orientadas a dados**
 
