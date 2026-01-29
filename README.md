@@ -1,87 +1,88 @@
-<h1 align="left">👋 Olá, eu sou Francisco!</h1>
+<h1 align="left">👋 Hi, I’m Francisco!</h1>
 
-💻 Desenvolvedor em formação | **Dados, Machine Learning e IA**  
-🎓 5º semestre de **Análise e Desenvolvimento de Sistemas** – *Unisinos*  
-💼 Performance Comercial - **VIVO (Telefônica Brasil)**  
-🚀 Focado em **ciência de dados, machine learning e soluções orientadas a dados**
-
----
-
-## 🧑‍💻 Sobre mim
-
-Sou um profissional em **transição de carreira para a área de Dados**, com background sólido em **programação, análise de dados e desenvolvimento backend**.
-
-Atualmente, direciono meus estudos e projetos para **Ciência de Dados, Machine Learning e aplicações de IA**, atuando principalmente com **Python e SQL** em:
-- análise exploratória de dados  
-- modelagem e pipelines ETL  
-- construção de APIs que suportam soluções data-driven  
-
-Todos os meus projetos práticos estão disponíveis aqui no GitHub, onde atualmente tendo manter o foco em **análise, visualização de dados, automação e IA aplicada**.
-
-**Principais competências:**
-- **Linguagens e frameworks:** Python, SQL, Java, FastAPI, Pandas, NumPy  
-- **Bancos de dados:** MySQL, SQLite, PostgreSQL, SQL Server, Oracle, MongoDB, Neo4j  
-- **Ferramentas e metodologias:** Git, Linux, Docker, Scrum, Kanban, Power BI, Excel  
-- **Idiomas:** Inglês fluente | Espanhol intermediário
-
-Recentemente, fui aprovado em **três bootcamps Santander**, com foco prático em **dados e backend**:  
-- 📊 **Excel Avançado** – Dashboards, ETL, automações com VBA e integração com PostgreSQL  
-- 🐍 **Backend com Python** – APIs REST, FastAPI, MongoDB e testes automatizados  
-- 🐍 **Ciência de Dados com Python** – Foco em Python, análise de dados, machine learning, bancos de dados e computação em nuvem com AWS.
-
-Minha experiência anterior em **produção musical** me trouxe habilidades como **organização, comunicação eficaz, criatividade e trabalho em equipe**, que hoje aplico na construção de soluções tecnológicas e analíticas.
+💻 Developer in progress | **Backend, Data, Machine Learning & AI**  
+🎓 5th semester of **Systems Analysis and Development** – *Unisinos*  
+💼 Commercial Performance – **VIVO (Telefônica Brasil)**  
+🚀 Focused on **data science, machine learning, and data-driven solutions**
 
 ---
 
-## 🎯 Áreas de interesse
-- Ciência de Dados  
+## 🧑‍💻 About me
+
+I am a professional in **career transition to the Tech field**, with a solid background in **programming, data analysis, and backend development**.
+
+Currently, I am directing my studies and projects toward **Backend, Data Science, Machine Learning, and AI applications**, mainly working with **Python and SQL** in:
+- exploratory data analysis  
+- modeling and ETL pipelines  
+- building APIs that support data-driven solutions  
+
+All my hands-on projects are available here on GitHub, where I currently aim to keep my focus on **data analysis, data visualization, automation, and applied AI**.
+
+**Main skills:**
+- **Languages and frameworks:** Python, SQL, Java, FastAPI, Pandas, NumPy  
+- **Databases:** MySQL, SQLite, PostgreSQL, SQL Server, Oracle, MongoDB, Neo4j  
+- **Tools and methodologies:** Git, Linux, Docker, Scrum, Kanban, Power BI, Excel  
+- **Languages:** Fluent English | Intermediate Spanish
+
+Recently, I was approved in **three Santander bootcamps**, with a practical focus on **data and backend**:  
+- 📊 **Advanced Excel** – Dashboards, ETL, VBA automations, and PostgreSQL integration  
+- 🐍 **Backend with Python** – REST APIs, FastAPI, MongoDB, and automated testing  
+- 🐍 **Data Science with Python** – Focus on Python, data analysis, machine learning, databases, and cloud computing with AWS.
+
+My previous experience in **music production** provided me with skills such as **organization, effective communication, creativity, and teamwork**, which I now apply in building technological and analytical solutions.
+
+---
+
+## 🎯 Areas of interest
+- Backend Development
+- Data Science  
 - Machine Learning  
-- Engenharia de Dados (nível inicial)  
-- Análise de Dados  
+- Data Engineering (entry-level)  
+- Data Analysis  
 
 ---
 
-## 📚 O que estou estudando
+## 📚 What I’m studying
 
-✔ **Python** – Análise e visualização de dados com Pandas, NumPy, Matplotlib, Seaborn e Streamlit  
-✔ **IA & LLMs** – RAG, LangChain, LangGraph, criação de agentes e integração com APIs  
-✔ **Machine Learning** – Fundamentos, pipelines, validação de modelos e métricas  
-✔ **SQL** – Modelagem, consultas avançadas, ETL e CRUD  
-✔ **Java** – POO e estruturas de dados (base lógica)  
-✔ **Excel** – Dashboards, Power Query e automações com VBA  
-✔ **Power BI** – ETL, modelagem e criação de dashboards analíticos  
+✔ **Python** – Backend, data analysis and visualization with Pandas, NumPy, Matplotlib, Seaborn, and Streamlit  
+✔ **AI & LLMs** – RAG, LangChain, LangGraph, agent creation, and API integration  
+✔ **Machine Learning** – Fundamentals, pipelines, model validation, and metrics  
+✔ **SQL** – Modeling, advanced queries, ETL, and CRUD  
+✔ **Java** – OOP and data structures (logical foundation)  
+✔ **Excel** – Dashboards, Power Query, and VBA automations  
+✔ **Power BI** – ETL, modeling, and analytical dashboard creation  
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Featured Projects
 
 🔹 [**Service Desk Agent**](https://github.com/FranciscoGoyaAMC/service-desk-agent)  
-Agente de IA voltado para automação de atendimento e suporte.
+AI agent focused on customer service and support automation.
 
 🔹 [**FAQ Agent**](https://github.com/FranciscoGoyaAMC/faq_agent)  
-Agente de IA para FAQ.
+AI agent for FAQs.
 
-🔹 [**Agente de IA**](https://github.com/FranciscoGoyaAMC/ai_agent)  
-Agente capaz de listar, ler, sobrescrever arquivos e executar scripts Python.
+🔹 [**AI Agent**](https://github.com/FranciscoGoyaAMC/ai_agent)  
+Agent capable of listing, reading, overwriting files, and executing Python scripts.
 
-🔹 [**Agente de IA com busca na Web**](https://github.com/FranciscoGoyaAMC/rag_web)  
-Agente de IA que usa RAG e busca elementos na Web para responder perguntas sobre LLM.
+🔹 [**AI Agent with Web Search**](https://github.com/FranciscoGoyaAMC/rag_web)  
+AI agent that uses RAG and web search to answer questions about LLMs.
 
-🔹 [**Dashboard Interativo**](https://github.com/FranciscoGoyaAMC/dashboard-salarios-dados)  
-Análise de salários na área de dados utilizando **Pandas + Streamlit**, com filtros e visualizações interativas.
+🔹 [**Interactive Dashboard**](https://github.com/FranciscoGoyaAMC/dashboard-salarios-dados)  
+Salary analysis in the data field using **Pandas + Streamlit**, with filters and interactive visualizations.
 
-🔹 [**ChatBot FURIA**](https://github.com/FranciscoGoyaAMC/bot-furia)  
-Chatbot para Telegram utilizando Python e CrewAI.
+🔹 [**FURIA ChatBot**](https://github.com/FranciscoGoyaAMC/bot-furia)  
+Telegram chatbot built with Python and CrewAI.
 
-🔹 [**API Loja**](https://github.com/FranciscoGoyaAMC/API_loja)  
-API REST para CRUD de produtos.
+🔹 [**Store API**](https://github.com/FranciscoGoyaAMC/API_loja)  
+REST API for product CRUD operations.
 
-🔹 [**API Esportes**](https://github.com/FranciscoGoyaAMC/API_BootCampSantander2025)  
-API para gestão de atletas e categorias.
+🔹 [**Sports API**](https://github.com/FranciscoGoyaAMC/API_BootCampSantander2025)  
+API for athlete and category management.
 
 ---
 
-## 💻 Linguagens e Tecnologias
+## 💻 Languages and Technologies
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
@@ -98,7 +99,7 @@ API para gestão de atletas e categorias.
 
 ---
 
-## 📫 Vamos conversar?
+## 📫 Let’s connect!
 
 <div align="left">
   <a href="https://www.linkedin.com/in/francisco-goya-de-almeida-martins-costa-0a8ab9327/" target="_blank">
