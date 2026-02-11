@@ -2,7 +2,7 @@
 
 💻 Developer in progress | **Backend, Data, Machine Learning & AI**  
 🎓 5th semester of **Systems Analysis and Development** – *Unisinos*  
-💼 Commercial Performance – **VIVO (Telefônica Brasil)**  
+💼 Data Analyst – **VIVO (Telefônica Brasil)**  
 🚀 Focused on **backend, data science, machine learning, and data-driven solutions**
 
 ---
